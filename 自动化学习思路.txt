@@ -1,0 +1,3 @@
+https://www.zhihu.com/question/22211535/answer/205808844
+
+学写简单爬虫，学习unittest，知道怎么用unittest和python的mock模块写一个小单元测试

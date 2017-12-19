@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-
-
 def Triangles():
     L = [1]
     while True:
