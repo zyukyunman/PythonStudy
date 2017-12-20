@@ -1,0 +1,11 @@
+https://www.zhihu.com/question/22211535/answer/205808844
+将requests库学习完
+学写简单爬虫:模拟登录hupu，爬hupu的詹姆斯图片。
+学习unittest，知道怎么用unittest和python的mock模块写一个小单元测试
+
+[<a href="https://bbs.hupu.com/20993526.html" target="_blank">
+新晋女主播闫寒这波什么水平？
+</a>]
+[<a href="https://bbs.hupu.com/20985034.html" target="_blank">
+万人空巷，以路人王的名义相聚！
+</a>]
